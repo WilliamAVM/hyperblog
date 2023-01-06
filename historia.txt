@@ -2,20 +2,10 @@ est es la historia de William Velasquez
 William velasquez tiene 27 años y aun no consiguio nada, pero eso se acaba ahora tendra el trabajo en encora 
 hablemos de la carrera de william 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-Master 1
-
-Master 2
-=======
 Experimento 1
-Master 1
->>>>>>> 108cfc1 (EXp 1)
-=======
-Experimento 1 
 
 Experimento 2
 
 Master 1
->>>>>>> 434486c (Exp 2)
+
+Master 2
